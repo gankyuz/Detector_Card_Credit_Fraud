@@ -100,7 +100,6 @@ A escolha do modelo ideal depende do objetivo de negócio:
 
 ## Sobre
  
-Projeto desenvolvido como parte da minha jornada em Ciência da Computação, explorando Machine Learning aplicado a problemas reais.  
-> Gerou resultados visivelmente diferentes da versão sem esse ajuste.
+Projeto desenvolvido como parte da minha jornada em Ciência da Computação, explorando Machine Learning aplicado a problemas reais.
  
 ---
